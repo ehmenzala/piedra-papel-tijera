@@ -1,0 +1,1 @@
+[{"winner": "TestPlayer", "looser": "AnotherTestPlayer"}]
