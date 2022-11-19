@@ -1,0 +1,15 @@
+C:\Users\esteb\source\repos\in-csharp\bin\Debug\net6.0\in-csharp.exe
+C:\Users\esteb\source\repos\in-csharp\bin\Debug\net6.0\in-csharp.deps.json
+C:\Users\esteb\source\repos\in-csharp\bin\Debug\net6.0\in-csharp.runtimeconfig.json
+C:\Users\esteb\source\repos\in-csharp\bin\Debug\net6.0\in-csharp.dll
+C:\Users\esteb\source\repos\in-csharp\bin\Debug\net6.0\in-csharp.pdb
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.csproj.AssemblyReference.cache
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.AssemblyInfoInputs.cache
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.AssemblyInfo.cs
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.csproj.CoreCompileInputs.cache
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.dll
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\refint\in-csharp.dll
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.pdb
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\in-csharp.genruntimeconfig.cache
+C:\Users\esteb\source\repos\in-csharp\obj\Debug\net6.0\ref\in-csharp.dll
